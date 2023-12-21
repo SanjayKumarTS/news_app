@@ -1,4 +1,3 @@
-````markdown
 # NewsApp
 
 Welcome to NewsApp, your premier source for the latest news from around the globe. Our app provides a seamless and interactive way to stay informed about world events, technology breakthroughs, sports, and entertainment.
@@ -82,8 +81,3 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 - Hat tip to anyone whose code was used.
 - Inspiration.
 - etc.
-
-```
-
-```
-````
