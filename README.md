@@ -56,11 +56,11 @@ npm start
 
 ### Android
 
-![Android App Preview](recording/android-gif.gif)
+![Android App Preview](gifs/android-gif.gif)
 
 ### iOS
 
-![iOS App Preview](recording/ios-gif.gif)
+![iOS App Preview](gifs/ios-gif.gif)
 
 ## Usage
 
