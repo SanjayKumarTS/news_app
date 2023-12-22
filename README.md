@@ -54,13 +54,9 @@ npm start
 
 ## App Preview
 
-### Android
-
-![Android App Preview](gifs/android-gif.gif)
-
 ### iOS
 
-![iOS App Preview](gifs/ios-gif.gif)
+![iOS App Preview](https://github.com/SanjayKumarTS/news_app/assets/32599300/0aa09c3d-5da6-440e-8d9e-b9b1b800f8f8)
 
 ## Usage
 
