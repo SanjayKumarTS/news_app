@@ -56,7 +56,7 @@ npm start
 
 ### iOS
 
-![iOS App Preview](https://github.com/SanjayKumarTS/news_app/assets/32599300/0aa09c3d-5da6-440e-8d9e-b9b1b800f8f8)
+![iOS App Preview](https://github.com/SanjayKumarTS/news_app/assets/32599300/d1fcbc6b-62e1-4e8d-9120-edfe7c3e7c18)
 
 ## Usage
 
